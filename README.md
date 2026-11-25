@@ -46,6 +46,15 @@ I'm currently focused on strengthening my skills in Python, SQL, Excel, Power BI
 
 
 
+## 🏆 Certifications
+
+### Certified Data Analyst (CDA) Accelerator Program — NDMIT, Nov 2026
+- **Certificate No.:** NDMIT-CDA-26-PV7SY4
+- **Issued:** 25 November 2026
+- **Verify:** https://ndmit.com/verify/?cert=NDMIT-CDA-26-PV7SY4
+
+
+![Certified Data Analyst (CDA) Accelerator Program certificate — NDMIT, Nov 2026](cda-certificate-1.png)
 📊 What I Like Working On
 
 I enjoy projects that involve:
